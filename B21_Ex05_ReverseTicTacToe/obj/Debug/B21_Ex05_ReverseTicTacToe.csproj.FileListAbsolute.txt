@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\bin\Debug\B21_Ex05_ReverseTicTacToe.exe.config
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\bin\Debug\B21_Ex05_ReverseTicTacToe.exe
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\bin\Debug\B21_Ex05_ReverseTicTacToe.pdb
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\obj\Debug\B21_Ex05_ReverseTicTacToe.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\obj\Debug\B21_Ex05_ReverseTicTacToe.SettingsForm.resources
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\obj\Debug\B21_Ex05_ReverseTicTacToe.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\obj\Debug\B21_Ex05_ReverseTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\obj\Debug\B21_Ex05_ReverseTicTacToe.exe
+C:\Users\Lenovo\Desktop\C#\Ex05\B21 Ex05 NivNisanov 316046390 RonLevy 208677203\B21_Ex05_ReverseTicTacToe\obj\Debug\B21_Ex05_ReverseTicTacToe.pdb
